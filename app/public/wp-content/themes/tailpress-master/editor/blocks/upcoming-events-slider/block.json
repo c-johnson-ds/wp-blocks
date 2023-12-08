@@ -1,6 +1,6 @@
 {
     "$schema": "https://advancedcustomfields.com/schemas/json/main/block.json",
-    "name": "upcoming-events-slider",
+    "name": "acf/upcoming-events-slider",
     "title": "Upcoming Events Slider",
     "description": "Upcoming Events Slider.",
     "category": "theme-blocks",

@@ -26,11 +26,9 @@ if( !empty($block['align']) ) {
 
 $anchorId = get_field('anchor_id');
 $title = get_field('section_title');
-if ( isset( $block['data']['preview_image'] ) ) : ?>
 
-    <img width="100%" height="auto" src="<?php echo get_template_directory_uri(); ?>/blocks/block-images/accordion.png" alt="Preview Awards Slider"/>
-
-<?php else : ?>
+ ?>
+<h1>test</h1>
 <section id="<?php echo esc_attr($anchorId); ?>" class="<?php echo esc_attr($className); ?>" >
     <div class="mx-auto container">
 		<?php if($title): ?>
@@ -65,7 +63,6 @@ if ( isset( $block['data']['preview_image'] ) ) : ?>
 		<?php endif; ?>
 	</div>
 </section>
-<?php endif;?>
 
 <script>
 	$('.accordion-toggle').click(function () {

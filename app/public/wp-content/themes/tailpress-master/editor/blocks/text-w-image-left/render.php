@@ -94,4 +94,3 @@ $imgWidth = get_field('image_width');
 		</div>
 	</div>
 </section>
-<?php endif; ?>

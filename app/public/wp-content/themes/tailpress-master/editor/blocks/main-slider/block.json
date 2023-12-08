@@ -1,6 +1,6 @@
 {
     "$schema": "https://advancedcustomfields.com/schemas/json/main/block.json",
-    "name": "main-slider",
+    "name": "acf/main-slider",
     "title": "Main Slider",
     "description": "Slider for the home page.",
     "category": "theme-blocks",

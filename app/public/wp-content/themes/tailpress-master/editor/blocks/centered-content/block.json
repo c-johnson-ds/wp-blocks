@@ -1,6 +1,6 @@
 {
     "$schema": "https://advancedcustomfields.com/schemas/json/main/block.json",
-    "name": "centered-text-content",
+    "name": "acf/centered-text-content",
     "title": "Centered Text Content",
     "description": "Centered Text Content.",
     "category": "theme-blocks",

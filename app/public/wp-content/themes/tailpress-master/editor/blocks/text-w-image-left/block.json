@@ -1,6 +1,6 @@
 {
     "$schema": "https://advancedcustomfields.com/schemas/json/main/block.json",
-    "name": "text-with-image-left",
+    "name": "acf/text-with-image-left",
     "title": "Text w/ Image (Left)",
     "description": "Two column layout with an image on the left and text and optional button on the right.",
     "category": "theme-blocks",

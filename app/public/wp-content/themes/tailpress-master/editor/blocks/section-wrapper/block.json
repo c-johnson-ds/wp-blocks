@@ -1,6 +1,6 @@
 {
     "$schema": "https://advancedcustomfields.com/schemas/json/main/block.json",
-    "name": "section-wrapper",
+    "name": "acf/section-wrapper",
     "title": "Section Wrapper",
     "description": "Section Wrapper",
     "category": "theme-blocks",

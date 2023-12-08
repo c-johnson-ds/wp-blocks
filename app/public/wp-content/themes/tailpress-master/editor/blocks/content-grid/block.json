@@ -1,6 +1,6 @@
 {
     "$schema": "https://advancedcustomfields.com/schemas/json/main/block.json",
-    "name": "content-grid",
+    "name": "acf/content-grid",
     "title": "Content Grid",
     "description": "Content Grid",
     "category": "theme-blocks",

@@ -1,0 +1,16 @@
+{
+    "$schema": "https://advancedcustomfields.com/schemas/json/main/block.json",
+    "name": "acf/testimonial",
+    "title": "Testimonial",
+    "description": "A custom testimonial block that uses ACF fields.",
+    "category": "formatting",
+    "icon": "admin-comments",
+    "keywords": ["testimonial", "quote"],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "ini.php"
+    },
+    "supports": {
+        "anchor": true
+    }
+}

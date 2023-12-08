@@ -1,6 +1,6 @@
 {
     "$schema": "https://advancedcustomfields.com/schemas/json/main/block.json",
-    "name": "copy-left-image-right",
+    "name": "acf/copy-left-image-right",
     "title": "Copy Left and Image Right",
     "description": "Two Columns with copy on the left and Image on the Right.",
     "category": "ds_blocks",

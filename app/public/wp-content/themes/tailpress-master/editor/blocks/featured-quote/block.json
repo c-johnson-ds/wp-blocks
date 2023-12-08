@@ -1,6 +1,6 @@
 {
     "$schema": "https://advancedcustomfields.com/schemas/json/main/block.json",
-    "name": "featured-quote",
+    "name": "acf/featured-quote",
     "title": "Featured Quote",
     "description": "Featured Quote",
     "category": "theme-blocks",

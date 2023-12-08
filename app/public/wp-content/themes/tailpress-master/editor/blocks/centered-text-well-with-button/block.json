@@ -1,6 +1,6 @@
 {
     "$schema": "https://advancedcustomfields.com/schemas/json/main/block.json",
-    "name": "centered-text-well-with-button",
+    "name": "acf/centered-text-well-with-button",
     "title": "Centered Text Well with Button",
     "description": "Centered Text Well with Button.",
     "category": "theme-blocks",

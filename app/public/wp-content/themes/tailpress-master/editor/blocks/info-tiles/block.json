@@ -1,6 +1,6 @@
 {
     "$schema": "https://advancedcustomfields.com/schemas/json/main/block.json",
-    "name": "info-tiles",
+    "name": "acf/info-tiles",
     "title": "Info Tiles",
     "description": "Info Tiles.",
     "category": "theme-blocks",

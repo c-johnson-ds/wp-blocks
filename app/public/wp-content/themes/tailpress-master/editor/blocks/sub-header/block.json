@@ -1,6 +1,6 @@
 {
     "$schema": "https://advancedcustomfields.com/schemas/json/main/block.json",
-    "name": "sub-header",
+    "name": "acf/sub-header",
     "title": "Sub Page Header",
     "description": "Sub Page Header",
     "category": "theme-blocks",

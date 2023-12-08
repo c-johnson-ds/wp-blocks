@@ -1,6 +1,6 @@
 {
     "$schema": "https://advancedcustomfields.com/schemas/json/main/block.json",
-    "name": "container",
+    "name": "acf/container",
     "title": "Container",
     "description": "Container",
     "category": "theme-blocks",

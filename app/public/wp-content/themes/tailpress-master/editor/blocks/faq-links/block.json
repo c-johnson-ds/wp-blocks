@@ -1,6 +1,6 @@
 {
     "$schema": "https://advancedcustomfields.com/schemas/json/main/block.json",
-    "name": "faq-links",
+    "name": "acf/faq-links",
     "title": "FAQ Links",
     "description": "FAQ Links",
     "category": "theme-blocks",

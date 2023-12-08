@@ -1,6 +1,6 @@
 {
     "$schema": "https://advancedcustomfields.com/schemas/json/main/block.json",
-    "name": "accordion",
+    "name": "acf/accordion",
     "title": "Accordion",
     "description": "Accordion.",
     "keywords": ["Accordion", "faq"],

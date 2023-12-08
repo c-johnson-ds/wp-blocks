@@ -1,6 +1,6 @@
 {
     "$schema": "https://advancedcustomfields.com/schemas/json/main/block.json",
-    "name": "child-event-grid",
+    "name": "acf/child-event-grid",
     "title": "Child Event Grid",
     "description": "Child Event Grid",
     "category": "theme-blocks",

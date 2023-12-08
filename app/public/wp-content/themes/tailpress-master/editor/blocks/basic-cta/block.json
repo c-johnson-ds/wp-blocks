@@ -1,6 +1,6 @@
 {
     "$schema": "https://advancedcustomfields.com/schemas/json/main/block.json",
-    "name": "basic-cta",
+    "name": "acf/basic-cta",
     "title": "Basic CTA",
     "description": "Basic CTA",
     "category": "theme-blocks",
