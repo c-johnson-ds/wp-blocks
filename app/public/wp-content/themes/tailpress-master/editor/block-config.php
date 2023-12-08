@@ -85,8 +85,8 @@ function load_blocks() {
             register_block_type( get_template_directory() . '/editor/blocks/' . $block . '/block.json' );
             wp_register_style( 'block-' . $block, get_template_directory_uri() . '/editor/blocks/' . $block . '/style.css', null, $theme->get( 'Version' ) );
 
-            if ( file_exists( get_template_directory() . '/editor/blocks/' . $block . '/render.php' ) ) {
-                include_once get_template_directory() . '/editor/blocks/' . $block . '/render.php';
+            if ( file_exists( get_template_directory() . '/editor/blocks/' . $block . '/init.php' ) ) {
+                include_once get_template_directory() . '/editor/blocks/' . $block . '/init.php';
             }
         }
     }

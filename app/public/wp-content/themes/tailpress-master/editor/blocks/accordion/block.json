@@ -3,8 +3,9 @@
     "name": "accordion",
     "title": "Accordion",
     "description": "Accordion.",
-    "category": "theme-blocks",
-    "mode": "edit",
     "keywords": ["Accordion", "faq"],
-    "icon": "align-center"
+    "icon": "align-center",
+    "acf": {
+        "mode": "edit"
+    }
 }

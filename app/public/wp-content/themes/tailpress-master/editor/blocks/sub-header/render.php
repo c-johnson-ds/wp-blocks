@@ -1,5 +1,5 @@
-<?
-$id = 'sub-hero-' . $block['id'];
+<?php
+$id = 'sub-hero-';
 if( !empty($block['anchor']) ) {
 	$id = $block['anchor'];
 }

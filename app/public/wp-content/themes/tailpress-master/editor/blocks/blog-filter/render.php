@@ -15,7 +15,7 @@ if( !empty($block['anchor']) ) {
 }
 
 // Create class attribute allowing for custom "className" and "align" values.
-$className = 'apps-list' . $block['id'];
+
 if( !empty($block['className']) ) {
     $className .= ' ' . $block['className'];
 }
@@ -81,7 +81,7 @@ $buttonSRB = get_field( 'button_statRow' );
 							'nopaging' => true,
 							'orderby' => 'date',
 							'order'=> 'DESC',
-							'tax_query' => $tax_qry,
+							//'tax_query' => $tax_qry,
 							];
 							$qry = new WP_Query( $args );
 
@@ -268,4 +268,3 @@ $buttonSRB = get_field( 'button_statRow' );
 			});
 		});
 </script>
-

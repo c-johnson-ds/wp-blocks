@@ -16,6 +16,11 @@ if( !empty($block['className']) ) {
 if( !empty($block['align']) ) {
     $classes .= sprintf( ' align%s', $block['align'] );
 }
+if( !empty($block['anchor']) ) {
+    $id = $block['anchor'];
+}else{
+    $id = '';
+}
 
 $formID = get_field('form_id');
 

@@ -9,7 +9,7 @@
  */
 
 // Create id attribute allowing for custom "anchor" value.
-$id = 'container-wrapper-' . $block['id'];
+$id = 'container-wrapper-';
 if( !empty($block['anchor']) ) {
     $id = $block['anchor'];
 }

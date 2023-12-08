@@ -1,9 +1,12 @@
 {
-    "name": "Upcoming Events Slider",
+    "$schema": "https://advancedcustomfields.com/schemas/json/main/block.json",
+    "name": "upcoming-events-slider",
     "title": "Upcoming Events Slider",
     "description": "Upcoming Events Slider.",
     "category": "theme-blocks",
-    "mode": "edit",
     "keywords": ["stats"],
-    "icon": "align-center"
+    "icon": "align-center",
+    "acf": {
+        "mode": "edit"
+    }
 }

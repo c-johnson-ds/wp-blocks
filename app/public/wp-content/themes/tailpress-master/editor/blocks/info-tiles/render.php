@@ -9,7 +9,7 @@
  */
 
 // Create id attribute allowing for custom "anchor" value.
-$id = 'info-tiles-' . $block['id'];
+$id = 'info-tiles-';
 if( !empty($block['anchor']) ) {
     $id = $block['anchor'];
 }

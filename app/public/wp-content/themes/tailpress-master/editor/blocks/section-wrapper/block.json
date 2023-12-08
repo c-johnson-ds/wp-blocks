@@ -1,14 +1,17 @@
 {
-    "name": "Section Wrapper",
+    "$schema": "https://advancedcustomfields.com/schemas/json/main/block.json",
+    "name": "section-wrapper",
     "title": "Section Wrapper",
     "description": "Section Wrapper",
     "category": "theme-blocks",
     "icon": "feedback",
-    "mode": "preview",
     "keywords": ["section wrapper", "section", "wrapper"],
     "supports": {
         "align": false,
         "mode": false,
         "jsx": true
+    },
+    "acf": {
+        "mode": "preview"
     }
 }

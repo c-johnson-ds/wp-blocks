@@ -1,5 +1,5 @@
 <?
-$id = 'container-' . $block['id'];
+$id = 'container-';
 if( !empty($block['anchor']) ) {
 	$id = $block['anchor'];
 }

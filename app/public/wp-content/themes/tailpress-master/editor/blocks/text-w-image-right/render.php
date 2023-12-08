@@ -9,7 +9,7 @@
  */
 
 // Create id attribute allowing for custom "anchor" value.
-$id = 'text-img-right-' . $block['id'];
+$id = 'text-img-right-';
 if( !empty($block['anchor']) ) {
 	$id = $block['anchor'];
 }

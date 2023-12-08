@@ -1,5 +1,5 @@
 <?
-$id = 'inline-links-block-' . $block['id'];
+$id = 'inline-links-block-';
 if( !empty($block['anchor']) ) {
 	$id = $block['anchor'];
 }
@@ -27,4 +27,3 @@ if( !empty($block['className']) ) {
 		</div>
 	</div>
 </section>
-

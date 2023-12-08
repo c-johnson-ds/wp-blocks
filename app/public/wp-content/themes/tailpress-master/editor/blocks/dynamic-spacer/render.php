@@ -9,7 +9,7 @@
  */
 
 // Create id attribute allowing for custom "anchor" value.
-$id = 'padding-spacer-' . $block['id'];
+$id = 'padding-spacer-';
 if( !empty($block['anchor']) ) {
     $id = $block['anchor'];
 }

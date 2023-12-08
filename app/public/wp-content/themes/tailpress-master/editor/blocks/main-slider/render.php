@@ -1,5 +1,5 @@
 <?php
-$id = 'container-' . $block['id'];
+$id = 'container-';
 if( !empty($block['anchor']) ) {
     $id = $block['anchor'];
 }
@@ -36,4 +36,3 @@ if( !empty($block['className']) ) {
 		</div>
 	<?php endif; ?>
 </section>
-

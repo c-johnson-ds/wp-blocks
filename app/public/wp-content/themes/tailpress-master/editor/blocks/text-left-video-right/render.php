@@ -9,7 +9,7 @@
  */
 
 // Create id attribute allowing for custom "anchor" value.
-$id = 'accordion-' . $block['id'];
+$id = 'accordion-';
 if( !empty($block['anchor']) ) {
     $id = $block['anchor'];
 }

@@ -9,7 +9,7 @@
  */
 
 // Create id attribute allowing for custom "anchor" value.
-$id = 'membership-slider-' . $block['id'];
+$id = 'membership-slider-';
 if( !empty($block['anchor']) ) {
     $id = $block['anchor'];
 }

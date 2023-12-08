@@ -1,9 +1,12 @@
 {
+    "$schema": "https://advancedcustomfields.com/schemas/json/main/block.json",
     "name": "sub-header",
     "title": "Sub Page Header",
     "description": "Sub Page Header",
     "category": "theme-blocks",
-    "mode": "edit",
     "keywords": ["Sub Page Header", "subpage", "header"],
-    "icon": "table-row-before"
+    "icon": "table-row-before",
+    "acf": {
+        "mode": "edit"
+    }
 }

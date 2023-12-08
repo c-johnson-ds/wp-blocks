@@ -9,7 +9,7 @@
  */
 
 // Create id attribute allowing for custom "anchor" value.
-$id = 'newslette-' . $block['id'];
+$id = 'newslette-';
 if( !empty($block['anchor']) ) {
     $id = $block['anchor'];
 }

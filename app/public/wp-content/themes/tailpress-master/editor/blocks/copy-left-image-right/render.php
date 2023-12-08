@@ -9,7 +9,7 @@
  */
 
 // Create id attribute allowing for custom "anchor" value.
-$id = 'copy-left-image-right-' . $block['id'];
+$id = 'copy-left-image-right-';
 if( !empty($block['anchor']) ) {
     $id = $block['anchor'];
 }
@@ -46,4 +46,3 @@ if ( isset( $block['data']['preview_image'] ) ) : ?>
 	</div>
 </section>
 <?php endif;?>
-

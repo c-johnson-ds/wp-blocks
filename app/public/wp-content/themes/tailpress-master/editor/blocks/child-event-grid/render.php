@@ -1,5 +1,5 @@
 <?php
-$id = 'card-grid-' . $block['id'];
+$id = 'card-grid-';
 if( !empty($block['anchor']) ) {
 	$id = $block['anchor'];
 }

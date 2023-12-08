@@ -1,10 +1,12 @@
 {
     "$schema": "https://advancedcustomfields.com/schemas/json/main/block.json",
-    "name": "Basic CTA",
+    "name": "basic-cta",
     "title": "Basic CTA",
     "description": "Basic CTA",
     "category": "theme-blocks",
-    "mode": "edit",
     "keywords": ["cta", "basic"],
-    "icon": "table-row-before"
+    "icon": "table-row-before",
+    "acf": {
+        "mode": "edit"
+    }
 }

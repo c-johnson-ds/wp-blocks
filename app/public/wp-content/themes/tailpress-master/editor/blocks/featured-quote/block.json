@@ -13,5 +13,8 @@
                 "preview_image_sub-header": "/blocks/block-images/featured-quote.png"
             }
         }
+    },
+    "acf": {
+        "mode": "edit"
     }
 }

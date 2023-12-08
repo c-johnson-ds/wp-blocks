@@ -1,5 +1,5 @@
 <?php
-$id = 'centered-text-well-with-button-' . $block['id'];
+$id = 'centered-text-well-with-button';
 if( !empty($block['anchor']) ) {
 	$id = $block['anchor'];
 }
@@ -41,4 +41,3 @@ $link = get_field('button');
 		</div>
 	</div>
 </section>
-

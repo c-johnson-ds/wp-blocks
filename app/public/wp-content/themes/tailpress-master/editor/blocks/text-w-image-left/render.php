@@ -9,7 +9,7 @@
  */
 
 // Create id attribute allowing for custom "anchor" value.
-$id = 'text-img-left-' . $block['id'];
+$id = 'text-img-left-';
 if( !empty($block['anchor']) ) {
     $id = $block['anchor'];
 }
@@ -30,11 +30,7 @@ $copy = get_field('copy');
 $link = get_field('button');
 $link2 = get_field('additional_button');
 $imgWidth = get_field('image_width');
-if ( isset( $block['data']['preview_image'] ) ) : ?>
-
-    <img width="100%" height="auto" src="<?php echo get_template_directory_uri(); ?>/blocks/block-images/text-image-left.png" alt="Preview Module Render"/>
-
-<?php else : ?>
+?>
 <section id="<?php echo esc_attr($anchorId); ?>" class="<?php echo esc_attr($className); ?> my-10 md:my-20" >
 	<div class="container mx-auto">
 		<div class="grid grid-cols-12 gap-4 w-full">
@@ -98,4 +94,4 @@ if ( isset( $block['data']['preview_image'] ) ) : ?>
 		</div>
 	</div>
 </section>
-<?php endif;?>
+<?php endif; ?>

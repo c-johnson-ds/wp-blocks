@@ -1,10 +1,12 @@
 {
     "$schema": "https://advancedcustomfields.com/schemas/json/main/block.json",
-    "name": "Info Tiles",
+    "name": "info-tiles",
     "title": "Info Tiles",
     "description": "Info Tiles.",
     "category": "theme-blocks",
-    "mode": "edit",
     "keywords": ["info", "tile"],
-    "icon": "align-center"
+    "icon": "align-center",
+    "acf": {
+        "mode": "edit"
+    }
 }

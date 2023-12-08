@@ -1,5 +1,5 @@
 <?
-$id = 'single-image-one-up-' . $block['id'];
+$id = 'single-image-one-up-';
 if( !empty($block['anchor']) ) {
 	$id = $block['anchor'];
 }

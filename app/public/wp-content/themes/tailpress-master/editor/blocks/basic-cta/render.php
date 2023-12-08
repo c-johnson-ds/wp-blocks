@@ -3,7 +3,7 @@
 if( !empty($block['anchor']) ) {
 	$id = $block['anchor'];
 }else{
-	$id = 'basic-cta';
+	$id = '';
 }
 
 // Create class attribute allowing for custom "className" and "align" values.

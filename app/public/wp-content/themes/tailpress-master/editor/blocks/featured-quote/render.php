@@ -9,7 +9,7 @@
  */
 
 // Create id attribute allowing for custom "anchor" value.
-$id = 'featured-quote-'. $block['id'];
+$id = 'featured-quote-';
 if( !empty($block['anchor']) ) {
     $id = $block['anchor'];
 }

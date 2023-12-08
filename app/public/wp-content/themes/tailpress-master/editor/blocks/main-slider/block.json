@@ -1,11 +1,12 @@
 {
     "$schema": "https://advancedcustomfields.com/schemas/json/main/block.json",
-    "name": "Main Slider",
+    "name": "main-slider",
     "title": "Main Slider",
     "description": "Slider for the home page.",
     "category": "theme-blocks",
-    "mode": "edit",
     "keywords": ["slider", "main", "home"],
     "icon": "align-center",
-    "render_template": "/blocks/content/slider-main.php"
+    "acf": {
+        "mode": "edit"
+    }
 }
