@@ -1,0 +1,10 @@
+{
+    "$schema": "https://advancedcustomfields.com/schemas/json/main/block.json",
+    "name": "Centered Text Well with Button",
+    "title": "Centered Text Well with Button",
+    "description": "Centered Text Well with Button.",
+    "category": "theme-blocks",
+    "mode": "edit",
+    "keywords": ["centered", "content"],
+    "icon": "align-center"
+}

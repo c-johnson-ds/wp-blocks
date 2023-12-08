@@ -1,0 +1,10 @@
+{
+    "$schema": "https://advancedcustomfields.com/schemas/json/main/block.json",
+    "name": "Text w/ Image (Left)",
+    "title": "Text w/ Image (Left)",
+    "description": "Two column layout with an image on the left and text and optional button on the right.",
+    "category": "theme-blocks",
+    "mode": "edit",
+    "keywords": ["image", "text"],
+    "icon": "align-none"
+}

@@ -1,0 +1,10 @@
+{
+    "$schema": "https://advancedcustomfields.com/schemas/json/main/block.json",
+    "name": "Centered Text Content",
+    "title": "Centered Text Content",
+    "description": "Centered Text Content.",
+    "category": "theme-blocks",
+    "mode": "edit",
+    "keywords": ["centered", "content"],
+    "icon": "align-center"
+}

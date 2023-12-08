@@ -1,0 +1,14 @@
+{
+    "name": "Section Wrapper",
+    "title": "Section Wrapper",
+    "description": "Section Wrapper",
+    "category": "theme-blocks",
+    "icon": "feedback",
+    "mode": "preview",
+    "keywords": ["section wrapper", "section", "wrapper"],
+    "supports": {
+        "align": false,
+        "mode": false,
+        "jsx": true
+    }
+}

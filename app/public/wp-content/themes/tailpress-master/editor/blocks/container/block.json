@@ -1,0 +1,15 @@
+{
+    "$schema": "https://advancedcustomfields.com/schemas/json/main/block.json",
+    "name": "Container",
+    "title": "Container",
+    "description": "Container",
+    "category": "theme-blocks",
+    "icon": "tagcloud",
+    "mode": "preview",
+    "keywords": ["container"],
+    "supports": {
+        "align": false,
+        "mode": false,
+        "jsx": true
+    }
+}

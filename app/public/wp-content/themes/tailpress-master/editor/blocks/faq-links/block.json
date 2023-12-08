@@ -1,0 +1,10 @@
+{
+    "$schema": "https://advancedcustomfields.com/schemas/json/main/block.json",
+    "name": "FAQ Links",
+    "title": "FAQ Links",
+    "description": "FAQ Links",
+    "category": "theme-blocks",
+    "mode": "edit",
+    "keywords": ["cta", "basic"],
+    "icon": "table-row-before"
+}

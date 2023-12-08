@@ -1,0 +1,10 @@
+{
+    "$schema": "https://advancedcustomfields.com/schemas/json/main/block.json",
+    "name": "Content Grid",
+    "title": "Content Grid",
+    "description": "Content Grid",
+    "category": "theme-blocks",
+    "mode": "edit",
+    "keywords": ["content", "grid"],
+    "icon": "table-row-before"
+}

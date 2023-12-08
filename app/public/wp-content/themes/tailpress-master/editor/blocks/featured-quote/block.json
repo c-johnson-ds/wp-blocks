@@ -1,0 +1,17 @@
+{
+    "$schema": "https://advancedcustomfields.com/schemas/json/main/block.json",
+    "name": "featured-quote",
+    "title": "Featured Quote",
+    "description": "Featured Quote",
+    "category": "theme-blocks",
+    "keywords": ["quote"],
+    "icon": "table-row-before",
+    "example": {
+        "attributes": {
+            "mode": "preview",
+            "data": {
+                "preview_image_sub-header": "/blocks/block-images/featured-quote.png"
+            }
+        }
+    }
+}

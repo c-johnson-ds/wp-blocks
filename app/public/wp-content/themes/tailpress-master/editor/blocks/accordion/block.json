@@ -1,0 +1,10 @@
+{
+    "$schema": "https://advancedcustomfields.com/schemas/json/main/block.json",
+    "name": "accordion",
+    "title": "Accordion",
+    "description": "Accordion.",
+    "category": "theme-blocks",
+    "mode": "edit",
+    "keywords": ["Accordion", "faq"],
+    "icon": "align-center"
+}

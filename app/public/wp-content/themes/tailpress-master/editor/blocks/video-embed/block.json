@@ -1,0 +1,9 @@
+{
+    "name": "Video Embed",
+    "title": "Video Embed (Full Width)",
+    "description": "Embed Full Width Video (inside a container).",
+    "category": "theme-blocks",
+    "mode": "edit",
+    "keywords": ["covenant", "video", "embed", "youtube", "vimeo"],
+    "icon": "align-none"
+}

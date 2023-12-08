@@ -1,0 +1,10 @@
+{
+    "$schema": "https://advancedcustomfields.com/schemas/json/main/block.json",
+    "name": "Copy Left and Image Right",
+    "title": "Copy Left and Image Right",
+    "description": "Two Columns with copy on the left and Image on the Right.",
+    "category": "theme-blocks",
+    "mode": "edit",
+    "keywords": ["half", "image", "right"],
+    "icon": "align-center"
+}
